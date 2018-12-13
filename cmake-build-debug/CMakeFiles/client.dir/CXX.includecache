@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rem/ClionProject/OS/lab9cpp/client/main.cpp
+arpa/inet.h
+-
+errno.h
+-
+netinet/in.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+cstring
+-
+sys/types.h
+-
+sys/select.h
+-
+sys/socket.h
+-
+unistd.h
+-
+iostream
+-
+limits.h
+-
+

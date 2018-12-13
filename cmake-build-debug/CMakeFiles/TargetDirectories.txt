@@ -1,0 +1,3 @@
+/home/rem/ClionProject/OS/lab9cpp/client/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/rem/ClionProject/OS/lab9cpp/client/cmake-build-debug/CMakeFiles/client.dir
+/home/rem/ClionProject/OS/lab9cpp/client/cmake-build-debug/CMakeFiles/edit_cache.dir
